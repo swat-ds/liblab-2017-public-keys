@@ -8,3 +8,11 @@ A temporary repository for adding your public keys.
 2) In this repository, click the `Create New File` button
 3) Open your public key (`*.pub`) in Atom/Sublime
 4) Copy/Paste into GitHub and commit
+
+once you've been added you can go ahead and login:
+
+`ssh -i [path to private key] [user]@34.237.205.134`
+
+You'll also want to copy your p5.js sketch to your home folder on the server:
+
+`scp -i [path to private key] [path to p5.js sketch] [user]@34.237.205.134:~/`
