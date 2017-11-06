@@ -2,7 +2,7 @@
 
 ![image of an amazon data center stolen from theatlantic.com](https://cdn.theatlantic.com/assets/media/img/mt/2016/01/08_image/lead_960.jpg?1452270370)
 
-https://blockbuilder.org/bulbil/1646e9a53526c4ff6362b56d595cc244
+http://blockbuilder.org/bulbil/1646e9a53526c4ff6362b56d595cc244
 
 A temporary repository for adding your public keys.
 
